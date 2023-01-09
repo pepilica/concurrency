@@ -8,7 +8,7 @@ This repo contains some of the tasks involving concurrency I made during the Adv
 
   
 
-## List of tasks:
+## List of stuff presented here:
 
 - hash-table - separate chaining hash table that enables to work with a hash table concurrently more effective than a simple mutex + std::unordered_map
 
